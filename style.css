@@ -1,0 +1,52 @@
+body {
+
+    background-color: rgb(212, 176, 96);
+
+}
+
+#h1Bv {
+
+    text-align: center;
+    font-weight: bold;
+    font-size: 70px;
+    color: rgb(218, 78, 159);
+
+}
+
+    #pInicio {
+
+        text-align: center;
+        font-size: 45px;
+        font-weight: bold;
+        color: rgb(73, 136, 218);
+
+    }
+
+    #logo {
+
+        width: 400px;
+        height: 400px;
+
+    }
+
+    #tblProdutos {
+
+        border: 2px solid rgb(136, 6, 136);
+        margin: 0 auto;
+        width: 800px;
+
+    }
+
+    #tblProdutos td {
+
+        border: 1px solid rgb(136, 6, 136);
+        padding: 10px;
+
+    }
+
+    #tblProdutos th {
+
+        border: 1px solid rgb(136, 6, 136);
+        padding: 10px;
+
+    }
