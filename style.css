@@ -50,3 +50,73 @@ body {
         padding: 10px;
 
     }
+
+    #h2Esp {
+
+        font-size: 75px;
+        color: rgb(245, 111, 227);
+
+    }
+
+    #h3Moon {
+
+        font-size: 50px;
+        color: rgb(142, 200, 250);
+
+    }
+
+    #h3Star {
+
+        font-size: 50px;
+        color: rgb(238, 255, 0);
+
+    }
+
+    #h3Sun {
+
+        font-size: 50px;
+        color: rgb(255, 102, 0);
+
+    }
+
+    #pMoon {
+
+        font-size: 25px;
+
+    }
+
+    #pStar {
+
+        font-size: 25px;
+
+    }
+
+    #pSun {
+
+        font-size: 25px;
+
+    }
+
+    .especialidades {
+        
+        border: 3px dashed #f0a6b8;
+        border-radius: 20px;
+        background-color: rgb(248, 220, 143);
+        width: 50%;
+        margin: 0 auto;
+        position: relative;
+        padding: 50px;
+
+    }
+
+    .especialidades::before {
+
+        content: "🍪🌙🌟🍦";
+        position: absolute;
+        top: -60px;
+        left: 50%;
+        transform: translateX(-50%);
+        font-size: 70px;
+        padding: 0 16px;
+
+    }
